@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to program
 - 💞️ I’m looking to collaborate on class and github
 - 📫 How to reach me dmngaruiya6@gmail.com
-- 😄 Pronouns: Dennis
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm looking forward to be a programer
 
 <!---
